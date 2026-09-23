@@ -1,3 +1,5 @@
+**Archived.** `shinyr4datascience` is an earlier experiment that I am no longer developing or operating. The repository remains available as historical reference; setup instructions and dependencies may be outdated.
+
 # shinyr4datascience
 
 ### Usage
